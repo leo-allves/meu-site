@@ -1,2 +1,2 @@
 # meu-site
- Esse e  a criação de um site simples
+ Esse site e uma criação simples em flexbox.
